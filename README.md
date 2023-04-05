@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hello, World! 👋 I'm @sercanov
 
-<!--
-**sercanov/sercanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' width='200"'>
 
-Here are some ideas to get you started:
+```javascript
+const sercanov = {
+  code: ["JavaScript", "TypeScript", "Python", "C#"],
+  tools: ["Node", "React", "React Native", "GraphQL", "Docker"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Firebase"],
+  devOps: ["Cloudflare", "AWS", "GCP", "Dokku", "Azure", "GitHub Actions", "GitLab CI/CD"],
+  architecture: ["Microservices", "Serverless", "RESTful APIs", "MVC"],
+  hobbies: ["Calisthenics", "Travel", "Mixing Music", "Mixing Cocktails", "Gaming"],
+  challenge: "I'm currently focused on artlabs.ai to bring 3D and AR experiences to peoples everyday life"
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently learning
+
+- Machine Learning
+- Kubernetes
+- OpenAI API
+- Anything new and out of ordinarty
+
+
+## 🔭 I’m currently working on
+
+- Distributed processing on GPU
+- Realtime ML applications on Web/Javascript 
+
+## 💬 Ask me about
+
+- Web development
+- Best practices in software engineering
+- How to collaborate on open-source projects
+- My favorite video games
+
+## 📫 How to reach me
+
+- LinkedIn: [linkedin.com/in/sercanov](https://www.linkedin.com/in/sercanov)
+- Twitter: [@sercanov](https://twitter.com/sercanov)
+- Email: [i@sercanov.com](mailto:i@sercanov.com)
+
+
+## ⚡ Fun fact
+
+I cannot solve a Rubik's Cube in under 2 minutes :D
+
+[![Sercanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercanov&show_icons=true&theme=radical)](https://github.com/sercanov/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercanov&layout=compact&theme=radical)](https://github.com/sercanov/github-readme-stats)
+
+---
+
+⭐️ From [@sercanov](https://github.com/sercanov)
