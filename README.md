@@ -38,13 +38,6 @@ const sercanov = {
 - Twitter: [@sercanov](https://twitter.com/sercanov)
 - Email: [i@sercanov.com](mailto:i@sercanov.com)
 
-
-## ⚡ Fun fact
-
-I cannot solve a Rubik's Cube in under 2 minutes :D
-
-[![Sercanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sercanov&show_icons=true&theme=radical)](https://github.com/sercanov/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercanov&layout=compact&theme=radical)](https://github.com/sercanov/github-readme-stats)
 
 ---
