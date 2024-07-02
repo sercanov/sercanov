@@ -1,6 +1,4 @@
-# Hello, World! 👋 I'm @sercanov
-
-<img align='clear' src='https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif' width='200"'>
+# Hi! 👋 I'm @sercanov
 
 ```javascript
 const sercanov = {
