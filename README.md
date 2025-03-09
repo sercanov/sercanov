@@ -13,11 +13,7 @@ const sercanov = {
 ```
 
 ## 🌱 I'm currently learning
-
-- Machine Learning
-- Kubernetes
-- OpenAI API
-- Anything new and out of ordinarty
+- Model Context Protocols
 
 
 ## 🔭 I’m currently working on
